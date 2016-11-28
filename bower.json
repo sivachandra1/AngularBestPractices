@@ -1,0 +1,24 @@
+{
+  "name": "AnguarSivaPractices",
+  "authors": [
+    "sivakumar kalisetty <siva.seleniumqa!@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://gihub.com/sivachandra1/AngularBestPractices/tree/AngularProject",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.9",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "angular-ui-router": "^0.3.2"
+  }
+}
